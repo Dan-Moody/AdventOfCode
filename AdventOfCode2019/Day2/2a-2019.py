@@ -1,6 +1,5 @@
 # answer = 3382284
 
-# Sum for the 2 sum problem
 sum = 0
 
 # Move each input number into an array and close the input stream once finished
