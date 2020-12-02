@@ -1,4 +1,5 @@
 # answer = 5070541
+# Used recursion bc I could
 
 # Sum for the 2 sum problem
 sum = 0

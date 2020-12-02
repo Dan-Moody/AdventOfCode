@@ -1,4 +1,4 @@
-# answer = 
+# answer = 3382284
 
 # Sum for the 2 sum problem
 sum = 0
